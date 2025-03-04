@@ -1,0 +1,19 @@
+C:\Users\user\source\repos\лаб 3\лаб 3\bin\Debug\лаб 3.exe.config
+C:\Users\user\source\repos\лаб 3\лаб 3\bin\Debug\лаб 3.exe
+C:\Users\user\source\repos\лаб 3\лаб 3\bin\Debug\лаб 3.pdb
+C:\Users\user\source\repos\лаб 3\лаб 3\bin\Debug\System.Memory.dll
+C:\Users\user\source\repos\лаб 3\лаб 3\bin\Debug\System.Text.Json.dll
+C:\Users\user\source\repos\лаб 3\лаб 3\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\user\source\repos\лаб 3\лаб 3\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\user\source\repos\лаб 3\лаб 3\bin\Debug\System.Buffers.dll
+C:\Users\user\source\repos\лаб 3\лаб 3\bin\Debug\System.ValueTuple.dll
+C:\Users\user\source\repos\лаб 3\лаб 3\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\user\source\repos\лаб 3\лаб 3\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\user\source\repos\лаб 3\лаб 3\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\user\source\repos\лаб 3\лаб 3\obj\Debug\лаб 3.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\лаб 3\лаб 3\obj\Debug\лаб 3.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\лаб 3\лаб 3\obj\Debug\лаб 3.exe.config
+C:\Users\user\source\repos\лаб 3\лаб 3\obj\Debug\лаб 3.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\лаб 3\лаб 3\obj\Debug\лаб 3.csproj.Up2Date
+C:\Users\user\source\repos\лаб 3\лаб 3\obj\Debug\лаб 3.exe
+C:\Users\user\source\repos\лаб 3\лаб 3\obj\Debug\лаб 3.pdb
