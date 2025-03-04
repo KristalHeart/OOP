@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\лаба 9\лаба 9\bin\Debug\лаба 9.exe.config
+C:\Users\user\source\repos\лаба 9\лаба 9\bin\Debug\лаба 9.exe
+C:\Users\user\source\repos\лаба 9\лаба 9\bin\Debug\лаба 9.pdb
+C:\Users\user\source\repos\лаба 9\лаба 9\obj\Debug\лаба 9.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\лаба 9\лаба 9\obj\Debug\лаба 9.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\лаба 9\лаба 9\obj\Debug\лаба 9.exe
+C:\Users\user\source\repos\лаба 9\лаба 9\obj\Debug\лаба 9.pdb
